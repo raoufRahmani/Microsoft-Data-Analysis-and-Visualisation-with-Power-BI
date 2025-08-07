@@ -1,8 +1,8 @@
-# Data Analytics and Visualisation with Power BI
+# Data Analysis and Visualisation with Power BI
 
-Welcome to **Data Analytics and Visualisation with Power BI**.
+Welcome to **Data Analysis and Visualisation with Power BI**.
 
-In this repository, you'll find my work and learning progress through a Power BI course **Data Analytics and Visualisation with Power BI** by **Microsoft** focused on leveraging the power of visualization to create data-driven stories and solve real-world business problems.
+In this repository, you'll find my work and learning progress through a Power BI course **Data Analysis and Visualisation with Power BI** by **Microsoft** focused on leveraging the power of visualization to create data-driven stories and solve real-world business problems.
 
 > Data analysis and visualization are not only essential skills for data analysts to uncover and communicate data insights, they are vital for organizations across different industries to flourish in today's data driven world. From healthcare to finance, data analysis and visualization play a critical role in informing decision-making and driving success.
 
